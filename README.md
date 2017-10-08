@@ -32,7 +32,7 @@
 #### Features
     1. You Can Send An Application.
 #### Download
-Download the [latest release](https://github.com/satya00089/TicTacToe/releases/tag/1.0).
+Download the [latest release](https://github.com/satya00089/Hostel-Leaving-Application/releases/tag/1.0).
 #### Requirements
 Microsoft [.NET Framework 4.5](https://www.microsoft.com/en-US/download/details.aspx?id=53344) or higher.
 #### Developed By
